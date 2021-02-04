@@ -1,20 +1,20 @@
-# Template (Training Module)
+# Template for a Module
 
 pages:
-<https://opencultureagency.github.io/Training.Module.Template/>
+<https://asktraining.github.io/Module/>
 
 The [(ASKotec) training module meta-data file (module.yml)](module.yml)
 is also visualized in [a human friendly form](
-https://opencultureagency.github.io/Training.Module.Template/modules/MyBigFatTrainingModule.html),
+https://asktraining.github.io/Module/modules/MyBigFatTrainingModule.html),
 which basically replaces the following table.
 
 | Name of the Training-Module |                  |
 | ----------------- | -------------------------- |
-| Contact person    | [Name of the contact person](https://github.com/opencultureagency) |
-| Release           | [v.1.0](https://github.com/opencultureagency/Training.Module.Template/releases/) ([View all Releases](https://github.com/opencultureagency/Training.Module.Template/releases/))|
+| Contact person    | [Name of the contact person](https://github.com/ASKtraining) |
+| Release           |  ~~[0.1.0](https://github.com/hoijui/JavaOSC/releases/tag/0.1.0)~~ ([View all Releases](https://github.com/ASKtraining/Module/releases/))|
 | Duration          | XX hours XX minutes        |
 | Max. Participians | X Persons                  |
-| Issues            | [Create new](https://github.com/opencultureagency/Training.Module.Template/issues/new)|
+| Issues            | [Create new](https://github.com/ASKtraining/Module/issues/new)|
 | Compatible        | ASKotec2.0                 |
 | Blog              | [View all Blog Posts](https://askotec.openculture.agency/category/training-modules/)|
 | Stockroom         | [Order Tools and Materials](https://askotec.openculture.agency/product-category/training-modules/)|
