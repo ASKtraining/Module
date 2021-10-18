@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Template for a Module
 
 pages:

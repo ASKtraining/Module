@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Robin Vobruba <hoijui.quaero@gmail.com>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 # Our auto-generated files
 /_data/training.yml
 /_data/module.yml
