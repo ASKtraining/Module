@@ -6,6 +6,16 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Template for a Module
 
+[![License: CC BY-SA 4.0](
+    https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](
+    https://creativecommons.org/licenses/by-sa/4.0/)
+[![REUSE status](
+    https://api.reuse.software/badge/github.com/ASKtraining/Module)](
+    https://api.reuse.software/info/github.com/ASKtraining/Module)
+[![made-with-Markdown](
+    https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](
+    http://commonmark.org)
+
 pages:
 <https://asktraining.github.io/Module/>
 
